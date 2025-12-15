@@ -15,7 +15,7 @@ export default function Home() {
                             </div>
                         </div>
                         <div className="text-center md:text-left">
-                            <h1 className="text-4xl font-bold text-gray-900 mb-2">你的姓名</h1>
+                            <h1 className="text-4xl font-bold text-gray-900 mb-2">项宏轩</h1>
                             <p className="text-xl text-blue-600 mb-3">北京信息科技大学 · 大三学生</p>
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-2 text-gray-600">
                                 <p>🎂 2005年出生</p>
